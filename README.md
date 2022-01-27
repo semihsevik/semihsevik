@@ -16,4 +16,4 @@
 <a href="https://code.visualstudio.com/"> <img src="https://img.icons8.com/color/30/000000/visual-studio-code-2019.png" alt="vscode" width="40" height="40"/> </a> 
 <a href="https://www.anaconda.com/"> <img src="https://img.icons8.com/fluency/30/000000/anaconda--v2.png" alt="anaconda" width="40" height="40"/> </a> 
 <a href="https://www.qt.io/qt-for-python"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Qt_logo_2013.svg/1200px-Qt_logo_2013.svg.png" alt="qt" width="37" height="37"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/git/git.png" alt="git" width="40" height="40"/> </a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="40" height="40"/> </a>
