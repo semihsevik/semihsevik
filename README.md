@@ -17,3 +17,4 @@
 <a href="https://www.anaconda.com/"> <img src="https://img.icons8.com/fluency/30/000000/anaconda--v2.png" alt="anaconda" width="40" height="40"/> </a> 
 <a href="https://www.qt.io/qt-for-python"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Qt_logo_2013.svg/1200px-Qt_logo_2013.svg.png" alt="qt" width="37" height="37"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="40" height="40"/> </a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/linux--v1.png" alt="linux" width="40" height="40"/> </a>
