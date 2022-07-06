@@ -5,6 +5,8 @@
 <br>
 <br>
 
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="320" />
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=semihsevik&show_icons=true)
 
 ### 🔧 Languages and Tools:
