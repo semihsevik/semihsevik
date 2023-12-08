@@ -1,6 +1,5 @@
 
 ### 📩 Contact me:
-[<img align="left" alt="linkedin | LinkedIn" width="24px" src="[https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png)" />](https://www.linkedin.com/in/semihsevik/)
 [<img align="left" height="24" width="24" src="https://img.icons8.com/fluency/30/000000/gmail-new.png" />](mailto:semihsevik7@gmail.com)
 <br>
 <br>
