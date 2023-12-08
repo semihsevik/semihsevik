@@ -1,7 +1,6 @@
 
-### 📩 Contact me:
+### 📩 Contact me: 
 [<img align="left" height="24" width="24" src="https://img.icons8.com/fluency/30/000000/gmail-new.png" />](mailto:semihsevik7@gmail.com)
-<br>
 <br>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=semihsevik&show_icons=true)
